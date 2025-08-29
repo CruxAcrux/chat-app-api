@@ -1,0 +1,8 @@
+User needs to see who is logged in. -- NOT FIXED --- Fixed
+logout. -- FIXED BUT NEED CORRECTING
+direct correctly when logged in. -- SOMEWHAT FIXED
+See if log in succses or register. --- FIXED
+See my own messages in chat --- Need to refresh to see.
+Pictures to upload correctly --- 
+Forget password is not working.
+Notification mp3 sound.
